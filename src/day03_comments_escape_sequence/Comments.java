@@ -17,14 +17,14 @@ public class Comments {
 //        System.out.println
 //        System.out.println
 //        System.out.println
-        // TODO : I NEED TO  KNOW HOW MUCH i spend on my computer
+        // T: I NEED TO  KNOW HOW MUCH i spend on my computer
         System.out.println("I recently bought computer for $.....");
         /*
-        todo :
+        t:
          */
         System.out.println("");
 
-        //todo: this is to remind the syntax isv not case sensitive
+        //t this is to remind the syntax isv not case sensitive
     }
 
 }
