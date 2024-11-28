@@ -30,7 +30,7 @@ public class FizzBuzz {
         if (num % 3 == 0 && num % 5 == 0) {
             System.out.println("FizzBuzz");
         } else if (num % 5 == 0) {
-            System.out.println("Bizz");
+            System.out.println("Buzz");
         } else if (num % 3 == 0 ) {
             System.out.println("Fizz");
         } else {
