@@ -4,7 +4,7 @@ public class StringUtil {
 
 
     /**
-     * This method returns the reversed version of the Strin
+     * This method returns the reversed version of the String
      * @param str given String
      * @returns the reversed version
      */
