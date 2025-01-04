@@ -10,7 +10,6 @@ public class UsingCoffee {
         // any other class member canNOT be reached directly from different file
         // System.out.println(price);
 
-
         // If we have toString() method NOT declared, it will print memory location
         // If we have it declared, we can print th object and it will call toString by default
         System.out.println(coffee1);
