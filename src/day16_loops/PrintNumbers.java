@@ -36,3 +36,4 @@ public class PrintNumbers {
 
     }
 }
+//10+ 14+ 17+19+ 20

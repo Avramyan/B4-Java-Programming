@@ -11,15 +11,16 @@ public class CountHi {
 
         for (int i = 0; i < word.length() - 1 ; i++) {
 
-            if (word.charAt(i) == 'h' && word.charAt(i+1) == 'i'){
+            if (word.substring(i, i + 2).equals("hi")){
                 count++;
             }
-
+//(word.substring(i,i+1) == "hi"
+            //word.charAt(i) == 'h' && word.charAt(i+1) == 'i')
         }
 
         System.out.println("You got " + count + " times \"hi\" in \"" + word + "\"") ;
 
-        //TODO: Home Practice: Try to do this code with the .substring() method
+        //
 
 
 
